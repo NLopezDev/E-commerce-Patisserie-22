@@ -1,10 +1,16 @@
-.App {
-  text-align: center;
+.navbar{
+  margin-bottom: 35px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(251,222,238,1) 15.6%, rgba(206,201,226,1) 80.3% ); }
+
+* {
+  padding: 0%;
+  margin: 0%; }
+
+.App {
+  text-align: center;
 }
 
 @media (prefers-reduced-motion: no-preference) {
